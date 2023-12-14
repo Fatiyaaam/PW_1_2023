@@ -1,0 +1,36 @@
+* {
+    margin:0;
+}
+
+header,article,aside,nav,footer {
+    padding: 20px;
+}
+
+.content {
+    display:flex;
+    height: 77vh;
+}
+
+header{
+    background-color: lightgreen;
+}
+
+article {
+    background-color: lightgray;
+    width: 50%;
+}
+
+aside {
+    background-color: lightcoral;
+    width: 25%;
+}
+
+nav {
+    background-color: lightblue;
+    width: 25%;
+}
+
+footer {
+    background-color: lightpink;
+}
+    

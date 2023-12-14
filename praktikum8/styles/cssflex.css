@@ -1,0 +1,24 @@
+* {
+    margin :0;
+    font-family: arial;
+}
+
+body{
+    background-color: palevioletred;
+}
+
+nav {
+    display:flex;
+    background-color: skyblue;
+    padding: 15px;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+}
+
+ul li {
+    margin-right: 15px;
+    list-style-type: none;
+}
